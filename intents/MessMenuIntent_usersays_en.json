@@ -1,6 +1,146 @@
 [
   {
-    "id": "f5f3b500-d46d-44cb-8f7f-004632389f93",
+    "id": "fe7f4645-51cf-42e1-bf54-846cdda3fbee",
+    "data": [
+      {
+        "text": "what\u0027s the mess menu ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "Day",
+        "meta": "@Weekday",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "morning",
+        "alias": "FoodTime",
+        "meta": "@FoodTime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ee7c6d5-d312-4f04-88ec-64baf590663a",
+    "data": [
+      {
+        "text": "what\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "dinner",
+        "alias": "FoodTime",
+        "meta": "@FoodTime",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "Day",
+        "meta": "@Weekday",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "upper dining hall",
+        "alias": "Mess",
+        "meta": "@Mess",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b435a27-c0fe-4f95-92fc-27dd46f203fa",
+    "data": [
+      {
+        "text": "mess menu for ",
+        "userDefined": false
+      },
+      {
+        "text": "monday",
+        "alias": "Day",
+        "meta": "@Weekday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51e2bbfe-8c51-46a3-a53e-c4a1941d8a59",
+    "data": [
+      {
+        "text": "mess menu for ",
+        "userDefined": false
+      },
+      {
+        "text": "Tuesday",
+        "alias": "Day",
+        "meta": "@Weekday",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "breakfast",
+        "alias": "FoodTime",
+        "meta": "@FoodTime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "875b8a2c-7417-42d2-a254-ad40036843ef",
+    "data": [
+      {
+        "text": "menu for ",
+        "userDefined": false
+      },
+      {
+        "text": "Friday",
+        "alias": "Day",
+        "meta": "@Weekday",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lunch",
+        "alias": "FoodTime",
+        "meta": "@FoodTime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "afa70c4c-980c-43ca-8b45-60e922bfd72a",
     "data": [
       {
         "text": "What is in the mess for ",
@@ -18,7 +158,7 @@
     "updated": 0
   },
   {
-    "id": "138dd77e-3774-4926-874a-37e0f481db8c",
+    "id": "c3602b39-50ab-49b2-9526-461ec1886587",
     "data": [
       {
         "text": "What is in the mess for ",
@@ -36,7 +176,7 @@
     "updated": 0
   },
   {
-    "id": "1cad9748-f6fe-4c60-91e6-6b92f6af19bf",
+    "id": "8d51289b-85b6-4a18-ab8d-a36fcab8798f",
     "data": [
       {
         "text": "Menu for ",
@@ -64,7 +204,7 @@
     "updated": 0
   },
   {
-    "id": "6b5c78d7-65be-41f1-a6d5-88880bb0fa4d",
+    "id": "06d49134-650c-4081-a0e0-055b3b4913fd",
     "data": [
       {
         "text": "Breakfast",
@@ -97,7 +237,7 @@
     "updated": 0
   },
   {
-    "id": "aedda866-e3eb-482a-963c-c5f9e9367560",
+    "id": "e57abdba-90de-40b7-8596-ced2d4247bb0",
     "data": [
       {
         "text": "Breakfast",
@@ -121,7 +261,7 @@
     "updated": 0
   },
   {
-    "id": "f848fb66-0d4d-483c-a6bd-2ad00464e8bb",
+    "id": "ff9b1174-73e9-4da4-8a30-02f58c6c68f3",
     "data": [
       {
         "text": "Breakfast",
@@ -155,7 +295,7 @@
     "updated": 0
   },
   {
-    "id": "f42fd46b-43f4-4ded-8a24-fce1aa2176eb",
+    "id": "8d570dbb-938d-4e6a-9f87-2ef03a81f4c8",
     "data": [
       {
         "text": "What is in the ",

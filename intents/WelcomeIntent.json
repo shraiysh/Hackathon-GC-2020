@@ -14,15 +14,15 @@
           "platform": "google",
           "lang": "en",
           "condition": "",
-          "textToSpeech": "Hola! Lady Dashboard at your service!",
+          "textToSpeech": "Hola! Lady Doddle at your service!",
           "ssml": "",
-          "displayText": "Hola! Lady Dashboard at your service! Ask me about the next bus!"
+          "displayText": "Hola! Lady Doddle at your service! Ask me about the next bus or the mess menu!"
         },
         {
           "type": 0,
           "lang": "en",
           "condition": "",
-          "speech": "Hola! Lady Dashboard at your service! Ask me about the next bus or the mess menu!"
+          "speech": "Hola! Lady Doddle at your service! Ask me about the next bus or the mess menu!"
         }
       ],
       "defaultResponsePlatforms": {},

@@ -9,7 +9,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "275053b4-fabe-4b29-a8aa-cb14c8ca979d",
+          "id": "19e2128a-4c95-47bb-9444-a9bb452e595b",
           "required": true,
           "dataType": "@Mess",
           "name": "Mess",
@@ -32,10 +32,10 @@
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
           "outputDialogContexts": [],
-          "isList": true
+          "isList": false
         },
         {
-          "id": "ee329b31-5bc1-44db-852a-90f8a475a073",
+          "id": "ae89c295-aac3-4545-9d8e-df5591c0409b",
           "required": false,
           "dataType": "@Weekday",
           "name": "Day",
@@ -47,7 +47,7 @@
           "isList": false
         },
         {
-          "id": "a283807f-69b3-4736-a32f-bab2258bcb39",
+          "id": "63848e85-45af-459e-a70f-0e771b1b5733",
           "required": false,
           "dataType": "@FoodTime",
           "name": "FoodTime",
