@@ -1,0 +1,44 @@
+[
+  {
+    "value": "main gate",
+    "synonyms": [
+      "main gate",
+      "maingate",
+      "lab",
+      "labs"
+    ]
+  },
+  {
+    "value": "hostels",
+    "synonyms": [
+      "acad block",
+      "institute",
+      "hostels",
+      "iith",
+      "iiit h",
+      "I I T H",
+      "Indian Institute of Technology",
+      "Indian institute of tech",
+      "IIT Hyderabad",
+      "Indian institute of technology, hyderabad",
+      "acad block iith",
+      "institute"
+    ]
+  },
+  {
+    "value": "sangareddy",
+    "synonyms": [
+      "sangareddy",
+      "kandi",
+      "city"
+    ]
+  },
+  {
+    "value": "Lingampally",
+    "synonyms": [
+      "Lingampally",
+      "Hyderabad",
+      "secunderabad"
+    ]
+  }
+]

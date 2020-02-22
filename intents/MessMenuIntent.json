@@ -1,0 +1,82 @@
+{
+  "id": "4f2a57cc-069f-4eff-86ef-3255339c27f6",
+  "name": "MessMenuIntent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "275053b4-fabe-4b29-a8aa-cb14c8ca979d",
+          "required": true,
+          "dataType": "@Mess",
+          "name": "Mess",
+          "value": "$Mess",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which mess?"
+            },
+            {
+              "lang": "en",
+              "value": "Which mess do you go to?"
+            },
+            {
+              "lang": "en",
+              "value": "I\u0027m sorry! Which mess do you go to?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "ee329b31-5bc1-44db-852a-90f8a475a073",
+          "required": false,
+          "dataType": "@Weekday",
+          "name": "Day",
+          "value": "$Day",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "a283807f-69b3-4736-a32f-bab2258bcb39",
+          "required": false,
+          "dataType": "@FoodTime",
+          "name": "FoodTime",
+          "value": "$FoodTime",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

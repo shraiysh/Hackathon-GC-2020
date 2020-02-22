@@ -1,0 +1,9 @@
+{
+  "id": "adcec5e2-5995-4930-894b-a1a819e9814b",
+  "name": "Weekday",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

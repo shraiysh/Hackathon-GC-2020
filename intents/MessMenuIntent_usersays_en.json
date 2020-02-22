@@ -1,0 +1,515 @@
+[
+  {
+    "id": "f5f3b500-d46d-44cb-8f7f-004632389f93",
+    "data": [
+      {
+        "text": "What is in the mess for ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "Day",
+        "meta": "@Weekday",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "138dd77e-3774-4926-874a-37e0f481db8c",
+    "data": [
+      {
+        "text": "What is in the mess for ",
+        "userDefined": false
+      },
+      {
+        "text": "tonight",
+        "alias": "FoodTime",
+        "meta": "@FoodTime",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1cad9748-f6fe-4c60-91e6-6b92f6af19bf",
+    "data": [
+      {
+        "text": "Menu for ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "Day",
+        "meta": "@Weekday",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "morning",
+        "alias": "FoodTime",
+        "meta": "@FoodTime",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b5c78d7-65be-41f1-a6d5-88880bb0fa4d",
+    "data": [
+      {
+        "text": "Breakfast",
+        "alias": "FoodTime",
+        "meta": "@FoodTime",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "Day",
+        "meta": "@Weekday",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "morning",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aedda866-e3eb-482a-963c-c5f9e9367560",
+    "data": [
+      {
+        "text": "Breakfast",
+        "alias": "FoodTime",
+        "meta": "@FoodTime",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "Day",
+        "meta": "@Weekday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f848fb66-0d4d-483c-a6bd-2ad00464e8bb",
+    "data": [
+      {
+        "text": "Breakfast",
+        "alias": "FoodTime",
+        "meta": "@FoodTime",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "Day",
+        "meta": "@Weekday",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lower dining hall",
+        "alias": "Mess",
+        "meta": "@Mess",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f42fd46b-43f4-4ded-8a24-fce1aa2176eb",
+    "data": [
+      {
+        "text": "What is in the ",
+        "userDefined": false
+      },
+      {
+        "text": "breakfast",
+        "alias": "FoodTime",
+        "meta": "@FoodTime",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "Day",
+        "meta": "@Weekday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f39e187d-8d54-4058-af5a-6b20f83724cd",
+    "data": [
+      {
+        "text": "What is the menu for ",
+        "userDefined": false
+      },
+      {
+        "text": "lunch",
+        "alias": "FoodTime",
+        "meta": "@FoodTime",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2713d17d-4203-42d5-80ee-55282807b2b8",
+    "data": [
+      {
+        "text": "Menu for ",
+        "userDefined": false
+      },
+      {
+        "text": "Upper dining hall",
+        "alias": "Mess",
+        "meta": "@Mess",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "breakfast",
+        "alias": "FoodTime",
+        "meta": "@FoodTime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b71ee82-d2c3-4bc3-9d58-a69ed796565f",
+    "data": [
+      {
+        "text": "Menu for ",
+        "userDefined": false
+      },
+      {
+        "text": "Uppper dining hall",
+        "alias": "Mess",
+        "meta": "@Mess",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "tuesday",
+        "alias": "Day",
+        "meta": "@Weekday",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "breakfast",
+        "alias": "FoodTime",
+        "meta": "@FoodTime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "294472fd-552c-4ee1-bb75-688759570681",
+    "data": [
+      {
+        "text": "Mess menu for ",
+        "userDefined": false
+      },
+      {
+        "text": "tuesday",
+        "alias": "Day",
+        "meta": "@Weekday",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "breakfast",
+        "alias": "FoodTime",
+        "meta": "@FoodTime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3280d10d-bb9a-48f7-949d-66fb0a56a80f",
+    "data": [
+      {
+        "text": "Menu for ",
+        "userDefined": false
+      },
+      {
+        "text": "tuesday",
+        "alias": "Day",
+        "meta": "@Weekday",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "lunch",
+        "alias": "FoodTime",
+        "meta": "@FoodTime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5951dd1e-c6a2-475b-9318-099fd88a792e",
+    "data": [
+      {
+        "text": "What is in ",
+        "userDefined": false
+      },
+      {
+        "text": "lunch",
+        "alias": "FoodTime",
+        "meta": "@FoodTime",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7cb19a0a-f807-4dbd-94c1-8269d23ba681",
+    "data": [
+      {
+        "text": "Lunch",
+        "alias": "FoodTime",
+        "meta": "@FoodTime",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8e2cedb7-2723-43db-bd58-10ac7964ede6",
+    "data": [
+      {
+        "text": "What is for ",
+        "userDefined": false
+      },
+      {
+        "text": "lunch",
+        "alias": "FoodTime",
+        "meta": "@FoodTime",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "96e7cd07-cc51-4367-b876-ba8301c55866",
+    "data": [
+      {
+        "text": "Sunday",
+        "alias": "Day",
+        "meta": "@Weekday",
+        "userDefined": true
+      },
+      {
+        "text": " menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e64aa5e-588e-4267-8482-52fa499eb735",
+    "data": [
+      {
+        "text": "What is the menu on ",
+        "userDefined": false
+      },
+      {
+        "text": "Sunday",
+        "alias": "Day",
+        "meta": "@Weekday",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "62879600-a81a-455c-bcce-b218c3b2e244",
+    "data": [
+      {
+        "text": "What is on the meny for ",
+        "userDefined": false
+      },
+      {
+        "text": "LDH",
+        "alias": "Mess",
+        "meta": "@Mess",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "Day",
+        "meta": "@Weekday",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae7bb01d-b50a-4e4b-a568-47a119b4697b",
+    "data": [
+      {
+        "text": "Whats on the menu for ",
+        "userDefined": false
+      },
+      {
+        "text": "UDH",
+        "alias": "Mess",
+        "meta": "@Mess",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "Day",
+        "meta": "@Weekday",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b78c862c-b0dc-4ae9-ab82-4f09f8f4de0c",
+    "data": [
+      {
+        "text": "What can I eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "874a5ce9-2f6f-4561-8473-1989df134b0a",
+    "data": [
+      {
+        "text": "Mess menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cff47891-b01c-4939-857b-3f9d3c6bdaab",
+    "data": [
+      {
+        "text": "What\u0027s on the menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

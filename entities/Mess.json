@@ -1,0 +1,9 @@
+{
+  "id": "6594fe76-c039-4ee4-918b-b83b9d6889d3",
+  "name": "Mess",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

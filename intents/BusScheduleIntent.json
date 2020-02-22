@@ -1,0 +1,107 @@
+{
+  "id": "f5309ed2-6870-4483-b45a-00797550c698",
+  "name": "BusScheduleIntent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "location",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d45b8822-7b7c-4f88-88ca-890b1e1f30c4",
+          "required": true,
+          "dataType": "@iith-addresses",
+          "name": "destination",
+          "value": "$destination",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Destination?"
+            },
+            {
+              "lang": "en",
+              "value": "Where to?"
+            },
+            {
+              "lang": "en",
+              "value": "Where are you going?"
+            },
+            {
+              "lang": "en",
+              "value": "Where do you wanna go?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "a7125f35-7a4f-4f8d-97fc-09da7fbc0c6f",
+          "required": true,
+          "dataType": "@iith-addresses",
+          "name": "source",
+          "value": "$source",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Source?"
+            },
+            {
+              "lang": "en",
+              "value": "Starting from?"
+            },
+            {
+              "lang": "en",
+              "value": "Where are you starting from?"
+            },
+            {
+              "lang": "en",
+              "value": "Starting location?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "Hey! I can help you with the bus schedules",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "HOLA! How can I help you today?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

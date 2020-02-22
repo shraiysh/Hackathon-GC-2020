@@ -1,0 +1,349 @@
+[
+  {
+    "id": "dd49b1d4-8267-4584-a249-14e7d93c2191",
+    "data": [
+      {
+        "text": "lingampally",
+        "alias": "source",
+        "meta": "@iith-addresses",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "hostels",
+        "alias": "destination",
+        "meta": "@iith-addresses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "58bc8751-c535-45a9-9392-ae5e28b87cd3",
+    "data": [
+      {
+        "text": "Next bus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47f1c14a-10bb-442c-b258-af176fe8efd9",
+    "data": [
+      {
+        "text": "buses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3177d26-f768-443c-9d87-a33778e1e0ce",
+    "data": [
+      {
+        "text": "bus schedule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9996d01-62a0-4501-9e89-e4350ec14249",
+    "data": [
+      {
+        "text": "when is the next bus for ",
+        "userDefined": false
+      },
+      {
+        "text": "lingampally",
+        "alias": "destination",
+        "meta": "@iith-addresses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "6313c5e0-7416-4029-b6ed-32d8f6a068db",
+    "data": [
+      {
+        "text": "When is the next bus for ",
+        "userDefined": false
+      },
+      {
+        "text": "main gate",
+        "alias": "destination",
+        "meta": "@iith-addresses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d7fa5f3-57dd-4e76-98ee-b39012e48197",
+    "data": [
+      {
+        "text": "When is the next bus from ",
+        "userDefined": false
+      },
+      {
+        "text": "main gate",
+        "alias": "source",
+        "meta": "@iith-addresses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de16c554-e805-49c5-bd89-14e34345237f",
+    "data": [
+      {
+        "text": "When is the next bus from ",
+        "userDefined": false
+      },
+      {
+        "text": "Lingampally",
+        "alias": "source",
+        "meta": "@iith-addresses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8e23d4d8-bcd7-445f-b5e9-b39ea6b1d920",
+    "data": [
+      {
+        "text": "When is the next bus from ",
+        "userDefined": false
+      },
+      {
+        "text": "Sangareddy",
+        "alias": "source",
+        "meta": "@iith-addresses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "96279d7c-3c03-47e5-91c9-c5dc5dd93a3d",
+    "data": [
+      {
+        "text": "When is the next bus from ",
+        "userDefined": false
+      },
+      {
+        "text": "hostels",
+        "alias": "source",
+        "meta": "@iith-addresses",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Lingampally",
+        "alias": "destination",
+        "meta": "@iith-addresses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ad781e9-8cca-4dce-94d0-9293f3c99b53",
+    "data": [
+      {
+        "text": "When is the next bus from ",
+        "userDefined": false
+      },
+      {
+        "text": "main gate",
+        "alias": "source",
+        "meta": "@iith-addresses",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "hostels",
+        "alias": "destination",
+        "meta": "@iith-addresses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7204ac63-8db4-4524-ad10-b9a283546324",
+    "data": [
+      {
+        "text": "When is the next bus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e2c98c0-569d-4fc8-b9ce-e1407e3b0132",
+    "data": [
+      {
+        "text": "When is the next bus from ",
+        "userDefined": false
+      },
+      {
+        "text": "hostels",
+        "alias": "source",
+        "meta": "@iith-addresses",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "kandi",
+        "alias": "destination",
+        "meta": "@iith-addresses",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "762214a1-1890-40d9-822e-486b45cdf3aa",
+    "data": [
+      {
+        "text": "When is the next bus from ",
+        "userDefined": false
+      },
+      {
+        "text": "sangareddy",
+        "alias": "source",
+        "meta": "@iith-addresses",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "hostels",
+        "alias": "destination",
+        "meta": "@iith-addresses",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f3d62bf5-d294-440b-aa03-71d812c45aa7",
+    "data": [
+      {
+        "text": "When is the next bus to ",
+        "userDefined": false
+      },
+      {
+        "text": "Sangareddy",
+        "alias": "destination",
+        "meta": "@iith-addresses",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "685c83df-1371-4477-b3a5-207fc186ba40",
+    "data": [
+      {
+        "text": "When is the next bus from ",
+        "userDefined": false
+      },
+      {
+        "text": "hostels",
+        "alias": "source",
+        "meta": "@iith-addresses",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5722e69-b01a-42a8-b901-a265a78cc729",
+    "data": [
+      {
+        "text": "When is the next ",
+        "userDefined": false
+      },
+      {
+        "text": "bus",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "hostels",
+        "alias": "source",
+        "meta": "@iith-addresses",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "sangareddy",
+        "alias": "destination",
+        "meta": "@iith-addresses",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

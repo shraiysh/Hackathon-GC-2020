@@ -1,0 +1,9 @@
+{
+  "id": "330980cb-eaaf-4356-91e6-75dccb87e8dd",
+  "name": "iith-addresses",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

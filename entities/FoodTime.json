@@ -1,0 +1,9 @@
+{
+  "id": "f75ff9a7-9ddb-4039-a480-632273a303a6",
+  "name": "FoodTime",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}
