@@ -8,7 +8,7 @@
   "disableStackdriverLogs": true,
   "googleAssistant": {
     "googleAssistantCompatible": true,
-    "project": "iithbusschedule-uxdmip",
+    "project": "<YOUR PROJECT NAME>",
     "welcomeIntentSignInRequired": true,
     "startIntents": [],
     "systemIntents": [],
@@ -31,7 +31,7 @@
   },
   "defaultTimezone": "Asia/Almaty",
   "webhook": {
-    "url": "https://us-central1-iithbusschedule-uxdmip.cloudfunctions.net/dialogflowFirebaseFulfillment",
+    "url": "<YOUR WEB-HOOK URL>",
     "username": "",
     "headers": {
       "": ""

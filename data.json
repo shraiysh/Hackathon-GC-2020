@@ -1,0 +1,1086 @@
+{
+  "busdata": {
+    "FROMIITH": {
+      "ODF": [
+        "9:30",
+        "14:10",
+        "18:00"
+      ],
+      "LAB": [
+        "0:00",
+        "0:15",
+        "0:45",
+        "1:15",
+        "1:45",
+        "2:15",
+        "3:15",
+        "4:45",
+        "6:15",
+        "7:15",
+        "7:45",
+        "8:00",
+        "8:15",
+        "8:30",
+        "8:45",
+        "9:00",
+        "9:15",
+        "9:30",
+        "9:45",
+        "10:00",
+        "10:15",
+        "10:30",
+        "10:45",
+        "11:00",
+        "11:15",
+        "11:30",
+        "11:45",
+        "12:00",
+        "12:15",
+        "12:30",
+        "12:45",
+        "13:00",
+        "13:15",
+        "13:30",
+        "13:45",
+        "14:00",
+        "14:15",
+        "14:30",
+        "14:45",
+        "15:00",
+        "15:15",
+        "15:30",
+        "15:45",
+        "16:00",
+        "16:15",
+        "16:30",
+        "16:45",
+        "17:00",
+        "17:15",
+        "17:30",
+        "17:45",
+        "18:00",
+        "18:15",
+        "18:30",
+        "18:45",
+        "19:00",
+        "19:15",
+        "19:30",
+        "19:45",
+        "20:00",
+        "20:15",
+        "20:30",
+        "20:45",
+        "21:00",
+        "21:15",
+        "21:30",
+        "21:45",
+        "22:00",
+        "22:30",
+        "23:00",
+        "23:30"
+      ],
+      "SANGAREDDY": [
+        "8:15",
+        "8:45",
+        "17:00",
+        "17:45",
+        "20:00",
+        "21:00",
+        "22:15"
+      ],
+      "LINGAMPALLY": [
+        "14:30",
+        "17:45",
+        "19:00"
+      ],
+      "LINGAMPALLYW": [
+        "10:00",
+        "17:45",
+        "18:45",
+        "21:15"
+      ]
+    },
+    "TOIITH": {
+      "ODF": [
+        "8:20",
+        "12:30",
+        "17:00"
+      ],
+      "LAB": [
+        "0:00",
+        "0:30",
+        "1:00",
+        "1:30",
+        "2:00",
+        "2:30",
+        "3:30",
+        "5:00",
+        "6:30",
+        "7:30",
+        "8:00",
+        "8:00",
+        "8:15",
+        "8:30",
+        "8:45",
+        "9:00",
+        "9:15",
+        "9:30",
+        "9:45",
+        "10:00",
+        "10:15",
+        "10:30",
+        "10:45",
+        "11:00",
+        "11:15",
+        "11:30",
+        "11:45",
+        "12:00",
+        "12:15",
+        "12:30",
+        "12:45",
+        "13:00",
+        "13:15",
+        "13:30",
+        "13:45",
+        "14:00",
+        "14:15",
+        "14:30",
+        "14:45",
+        "15:00",
+        "15:15",
+        "15:30",
+        "15:45",
+        "16:00",
+        "16:15",
+        "16:30",
+        "16:45",
+        "17:00",
+        "17:15",
+        "17:30",
+        "17:45",
+        "18:00",
+        "18:15",
+        "18:30",
+        "18:45",
+        "19:00",
+        "19:15",
+        "19:30",
+        "19:45",
+        "20:00",
+        "20:15",
+        "20:30",
+        "20:45",
+        "21:00",
+        "21:15",
+        "21:30",
+        "21:45",
+        "22:00",
+        "22:30",
+        "23:00",
+        "23:30"
+      ],
+      "SANGAREDDY": [
+        "8:30",
+        "9:00",
+        "17:15",
+        "18:00",
+        "20:15",
+        "21:15",
+        "22:30"
+      ],
+      "LINGAMPALLY": [
+        "8:00",
+        "17:00",
+        "23:00"
+      ],
+      "LINGAMPALLYW": [
+        "10:00",
+        "17:00",
+        "20:00",
+        "22:30"
+      ]
+    }
+  },
+  "messdata": {
+    "LDH": {
+      "Sunday": {
+        "Breakfast": [
+          "Milk(untoned)",
+          "toasted (white & wheat) bread",
+          "Jam",
+          "Butter",
+          "tea and coffee",
+          "Aloo Paratha",
+          "Pudina chutney and curd"
+        ],
+        "Lunch": [
+          "Salad",
+          "roti",
+          "rice",
+          "sambar",
+          " Curd (100ml)",
+          "Papad",
+          "Chutney",
+          "vegetable salad",
+          "Dal Tadka/Chana Dal fry",
+          "Beetroot poriyal/ Beetroot with channa",
+          "Dum Aloo Banarasi/Malai kofta",
+          "Kerala sambar"
+        ],
+        "Snacks": [
+          "Black Tea",
+          "Coffee",
+          "Milk"
+        ],
+        "Dinner": [
+          "Salad",
+          "Phulka(with and without ghee)",
+          "rice",
+          "rasam",
+          "curd(100ml),Fryums,Pickle",
+          "Masoor dal",
+          "Veg jalfrezi fry",
+          "Gutti Vankaya curry",
+          "Pepper rasam"
+        ]
+      },
+      "Monday": {
+        "Breakfast": [
+          "Milk(untoned)",
+          "toasted (white & wheat) bread",
+          "Jam",
+          "Butter",
+          "tea and coffee",
+          "Kancheepuram Idly/ Veg Idly,Groundnut Chutney,Sambar"
+        ],
+        "Lunch": [
+          "Salad",
+          "roti",
+          "rice",
+          "sambar",
+          " Curd (100ml)",
+          "Papad",
+          "Chutney",
+          "vegetable salad",
+          "Tomato dal",
+          "Cabbage poriyal/ Cabbage with moong dal dry",
+          "Soya mutter curry",
+          "Sambar"
+        ],
+        "Snacks": [
+          "Milk",
+          "Ginger tea",
+          "Coffee"
+        ],
+        "Dinner": [
+          "Salad",
+          "Phulka(with and without ghee)",
+          "rice",
+          "rasam",
+          "curd(100ml),Fryums,Pickle",
+          "Rajma",
+          "Raw Banana curry",
+          "Kadi pakodi",
+          "Beetroot rasam",
+          "Jeera rice/ Tomato rice"
+        ]
+      },
+      "Tuesday": {
+        "Breakfast": [
+          "Milk(untoned)",
+          "toasted (white & wheat) bread",
+          "Jam",
+          "Butter",
+          "tea and coffee",
+          "Pongal& Vada(2 Pieces) Coconut chutney & Sambar"
+        ],
+        "Lunch": [
+          "Salad",
+          "roti",
+          "rice",
+          "sambar",
+          " Curd (100ml)",
+          "Papad",
+          "Chutney",
+          "vegetable salad",
+          "Palak dal",
+          "Beans poriyal/ Carrot beans poriyal",
+          "Avial without yam/Dhai baingan",
+          "Radish sambar"
+        ],
+        "Snacks": [
+          "Milk",
+          "tea",
+          "coffee"
+        ],
+        "Dinner": [
+          "Salad",
+          "Phulka(with and without ghee)",
+          "rice",
+          "rasam",
+          "curd(100ml),Fryums,Pickle",
+          "Dosakaya pappu",
+          "Aloo deepfry",
+          "Tomato drumstick/Kadai Veg",
+          "Ginger rasam",
+          "Methi Chapathi(sub for phulka)"
+        ]
+      },
+      "Wednesday": {
+        "Breakfast": [
+          "Milk(untoned)",
+          "toasted (white & wheat) bread",
+          "Jam",
+          "Butter",
+          "tea and coffee",
+          "Poori with aloo subzi/ Chole subzi"
+        ],
+        "Lunch": [
+          "Salad",
+          "roti",
+          "rice",
+          "sambar",
+          " Curd (100ml)",
+          "Papad",
+          "Chutney",
+          "vegetable salad",
+          "Urad dal/Rigidguard with moong dal",
+          "Baingan ka bartha/Mix veg dry",
+          "Capsicum masala",
+          "Aravai sambar"
+        ],
+        "Snacks": [
+          "Milk",
+          "Masala tea",
+          "Coffee"
+        ],
+        "Dinner": [
+          "Salad",
+          "Phulka(with and without ghee)",
+          "rice",
+          "rasam",
+          "curd(100ml),Fryums,Pickle",
+          "Mudda pappu",
+          "Dondakaya Peanut fry",
+          "Snakeguard curry",
+          "Pineapple rasam",
+          "Pudina chapathi(sub for phulka)"
+        ]
+      },
+      "Thursday": {
+        "Breakfast": [
+          "Milk(untoned)",
+          "toasted (white & wheat) bread",
+          "Jam",
+          "Butter",
+          "tea and coffee",
+          "PlainUttapam/ Onion Uttapam with Groundnut Chutney and Sambar"
+        ],
+        "Lunch": [
+          "Salad",
+          "roti",
+          "rice",
+          "sambar",
+          " Curd (100ml)",
+          "Papad",
+          "Chutney",
+          "vegetable salad",
+          "Gongura pappu",
+          "Cluster beans ",
+          "Corn Palak masala",
+          "Dal Rasam"
+        ],
+        "Snacks": [
+          "Milk",
+          "tea",
+          "coffee"
+        ],
+        "Dinner": [
+          "Salad",
+          "Phulka(with and without ghee)",
+          "rice",
+          "rasam",
+          "curd(100ml),Fryums,Pickle",
+          "Methi dal",
+          "Cabbage pakoda",
+          "Mutter do Piyaza/Aloo tomato curry",
+          "Lemon coriander rasam",
+          "Sambar Rice/ Rasam will be served during Lunch"
+        ]
+      },
+      "Friday": {
+        "Breakfast": [
+          "Milk(untoned)",
+          "toasted (white & wheat) bread",
+          "Jam",
+          "Butter",
+          "tea and coffee",
+          " Upma/Poha Coconut Chutney"
+        ],
+        "Lunch": [
+          "Salad",
+          "roti",
+          "rice",
+          "sambar",
+          " Curd (100ml)",
+          "Papad",
+          "Chutney",
+          "vegetable salad",
+          "Dal makani",
+          "Aloo jeera/ Aloo capsicum",
+          "Dosakaya tomato ",
+          "Pappu charu"
+        ],
+        "Snacks": [
+          "Milk",
+          "Elachi tea",
+          "Coffee"
+        ],
+        "Dinner": [
+          "Salad",
+          "Phulka(with and without ghee)",
+          "rice",
+          "rasam",
+          "curd(100ml),Fryums,Pickle",
+          "Thotakura pappu",
+          "Bhendi peanut/Bhendi Jaipuri",
+          "Soya bean thin gravy",
+          "Ginger Rasam",
+          "Pudina Rice/Tamarind Rice"
+        ]
+      },
+      "Saturday": {
+        "Breakfast": [
+          "Milk(untoned)",
+          "toasted (white & wheat) bread",
+          "Jam",
+          "Butter",
+          "tea and coffee",
+          "Masala dosa/ Onion dosa",
+          "peanut chutney",
+          "sambar"
+        ],
+        "Lunch": [
+          "Salad",
+          "roti",
+          "rice",
+          "sambar",
+          " Curd (100ml)",
+          "Papad",
+          "Chutney",
+          "vegetable salad",
+          "Dal fry",
+          "Bitter guard fry",
+          "Kofta curry/Rigidguard tomato curry",
+          "Kadam sambar"
+        ],
+        "Snacks": [
+          "Milk",
+          "tea",
+          "coffee"
+        ],
+        "Dinner": [
+          "Salad",
+          "Phulka(with and without ghee)",
+          "rice",
+          "rasam",
+          "curd(100ml),Fryums,Pickle",
+          "Lasooni dal tadka",
+          "Hariyali veg",
+          "Chole masala",
+          "Tomato rasam",
+          "Bhatura(Substitute for phulka)"
+        ]
+      }
+    },
+    "UDH": {
+      "Sunday": {
+        "Breakfast": [
+          "Milk(untoned)",
+          "toasted (white & wheat) bread",
+          "Jam",
+          "Butter",
+          "tea and coffee",
+          "Aloo Paratha",
+          "Pudina chutney and curd"
+        ],
+        "Lunch": [
+          "Salad",
+          "roti",
+          "rice",
+          "sambar",
+          " Curd (100ml)",
+          "Papad",
+          "Chutney",
+          "vegetable salad",
+          "Dal Tadka/Chana Dal fry",
+          "Beetroot poriyal/ Beetroot with channa",
+          "Dum Aloo Banarasi/Malai kofta",
+          "Kerala sambar"
+        ],
+        "Snacks": [
+          "Black Tea",
+          "Coffee",
+          "Milk"
+        ],
+        "Dinner": [
+          "Salad",
+          "Phulka(with and without ghee)",
+          "rice",
+          "rasam",
+          "curd(100ml),Fryums,Pickle",
+          "Masoor dal",
+          "Veg jalfrezi fry",
+          "Gutti Vankaya curry",
+          "Pepper rasam"
+        ]
+      },
+      "Monday": {
+        "Breakfast": [
+          "Milk(untoned)",
+          "toasted (white & wheat) bread",
+          "Jam",
+          "Butter",
+          "tea and coffee",
+          "Kancheepuram Idly/ Veg Idly,Groundnut Chutney,Sambar"
+        ],
+        "Lunch": [
+          "Salad",
+          "roti",
+          "rice",
+          "sambar",
+          " Curd (100ml)",
+          "Papad",
+          "Chutney",
+          "vegetable salad",
+          "Tomato dal",
+          "Cabbage poriyal/ Cabbage with moong dal dry",
+          "Soya mutter curry",
+          "Sambar"
+        ],
+        "Snacks": [
+          "Milk",
+          "Ginger tea",
+          "Coffee"
+        ],
+        "Dinner": [
+          "Salad",
+          "Phulka(with and without ghee)",
+          "rice",
+          "rasam",
+          "curd(100ml),Fryums,Pickle",
+          "Rajma",
+          "Raw Banana curry",
+          "Kadi pakodi",
+          "Beetroot rasam",
+          "Jeera rice/ Tomato rice"
+        ]
+      },
+      "Tuesday": {
+        "Breakfast": [
+          "Milk(untoned)",
+          "toasted (white & wheat) bread",
+          "Jam",
+          "Butter",
+          "tea and coffee",
+          "Pongal& Vada(2 Pieces) Coconut chutney & Sambar"
+        ],
+        "Lunch": [
+          "Salad",
+          "roti",
+          "rice",
+          "sambar",
+          " Curd (100ml)",
+          "Papad",
+          "Chutney",
+          "vegetable salad",
+          "Palak dal",
+          "Beans poriyal/ Carrot beans poriyal",
+          "Avial without yam/Dhai baingan",
+          "Radish sambar"
+        ],
+        "Snacks": [
+          "Milk",
+          "tea",
+          "coffee"
+        ],
+        "Dinner": [
+          "Salad",
+          "Phulka(with and without ghee)",
+          "rice",
+          "rasam",
+          "curd(100ml),Fryums,Pickle",
+          "Dosakaya pappu",
+          "Aloo deepfry",
+          "Tomato drumstick/Kadai Veg",
+          "Ginger rasam",
+          "Methi Chapathi(sub for phulka)"
+        ]
+      },
+      "Wednesday": {
+        "Breakfast": [
+          "Milk(untoned)",
+          "toasted (white & wheat) bread",
+          "Jam",
+          "Butter",
+          "tea and coffee",
+          "Poori with aloo subzi/ Chole subzi"
+        ],
+        "Lunch": [
+          "Salad",
+          "roti",
+          "rice",
+          "sambar",
+          " Curd (100ml)",
+          "Papad",
+          "Chutney",
+          "vegetable salad",
+          "Urad dal/Rigidguard with moong dal",
+          "Baingan ka bartha/Mix veg dry",
+          "Capsicum masala",
+          "Aravai sambar"
+        ],
+        "Snacks": [
+          "Milk",
+          "Masala tea",
+          "Coffee"
+        ],
+        "Dinner": [
+          "Salad",
+          "Phulka(with and without ghee)",
+          "rice",
+          "rasam",
+          "curd(100ml),Fryums,Pickle",
+          "Mudda pappu",
+          "Dondakaya Peanut fry",
+          "Snakeguard curry",
+          "Pineapple rasam",
+          "Pudina chapathi(sub for phulka)"
+        ]
+      },
+      "Thursday": {
+        "Breakfast": [
+          "Milk(untoned)",
+          "toasted (white & wheat) bread",
+          "Jam",
+          "Butter",
+          "tea and coffee",
+          "PlainUttapam/ Onion Uttapam with Groundnut Chutney and Sambar"
+        ],
+        "Lunch": [
+          "Salad",
+          "roti",
+          "rice",
+          "sambar",
+          " Curd (100ml)",
+          "Papad",
+          "Chutney",
+          "vegetable salad",
+          "Gongura pappu",
+          "Cluster beans ",
+          "Corn Palak masala",
+          "Dal Rasam"
+        ],
+        "Snacks": [
+          "Milk",
+          "tea",
+          "coffee"
+        ],
+        "Dinner": [
+          "Salad",
+          "Phulka(with and without ghee)",
+          "rice",
+          "rasam",
+          "curd(100ml),Fryums,Pickle",
+          "Methi dal",
+          "Cabbage pakoda",
+          "Mutter do Piyaza/Aloo tomato curry",
+          "Lemon coriander rasam",
+          "Sambar Rice/ Rasam will be served during Lunch"
+        ]
+      },
+      "Friday": {
+        "Breakfast": [
+          "Milk(untoned)",
+          "toasted (white & wheat) bread",
+          "Jam",
+          "Butter",
+          "tea and coffee",
+          " Upma/Poha Coconut Chutney"
+        ],
+        "Lunch": [
+          "Salad",
+          "roti",
+          "rice",
+          "sambar",
+          " Curd (100ml)",
+          "Papad",
+          "Chutney",
+          "vegetable salad",
+          "Dal makani",
+          "Aloo jeera/ Aloo capsicum",
+          "Dosakaya tomato ",
+          "Pappu charu"
+        ],
+        "Snacks": [
+          "Milk",
+          "Elachi tea",
+          "Coffee"
+        ],
+        "Dinner": [
+          "Salad",
+          "Phulka(with and without ghee)",
+          "rice",
+          "rasam",
+          "curd(100ml),Fryums,Pickle",
+          "Thotakura pappu",
+          "Bhendi peanut/Bhendi Jaipuri",
+          "Soya bean thin gravy",
+          "Ginger Rasam",
+          "Pudina Rice/Tamarind Rice"
+        ]
+      },
+      "Saturday": {
+        "Breakfast": [
+          "Milk(untoned)",
+          "toasted (white & wheat) bread",
+          "Jam",
+          "Butter",
+          "tea and coffee",
+          "Masala dosa/ Onion dosa",
+          "peanut chutney",
+          "sambar"
+        ],
+        "Lunch": [
+          "Salad",
+          "roti",
+          "rice",
+          "sambar",
+          " Curd (100ml)",
+          "Papad",
+          "Chutney",
+          "vegetable salad",
+          "Dal fry",
+          "Bitter guard fry",
+          "Kofta curry/Rigidguard tomato curry",
+          "Kadam sambar"
+        ],
+        "Snacks": [
+          "Milk",
+          "tea",
+          "coffee"
+        ],
+        "Dinner": [
+          "Salad",
+          "Phulka(with and without ghee)",
+          "rice",
+          "rasam",
+          "curd(100ml),Fryums,Pickle",
+          "Lasooni dal tadka",
+          "Hariyali veg",
+          "Chole masala",
+          "Tomato rasam",
+          "Bhatura(Substitute for phulka)"
+        ]
+      }
+    },
+    "LDH Additional": {
+      "Sunday": {
+        "Breakfast": [
+          "Boiled Egg",
+          "cornflakes",
+          "Bananas"
+        ],
+        "Lunch": [
+          "Egg Masala-20/-",
+          "Babycorn Manchuria-30/-",
+          "Kadai Chicken-40/-"
+        ],
+        "Snacks": [
+          "Pav Bhaji(2 pieces)-10/- Vada pav (Each)-10/-  "
+        ],
+        "Dinner": [
+          "Paneer pulao-60/-",
+          "Chicken biryani-60/-"
+        ]
+      },
+      "Monday": {
+        "Breakfast": [
+          "Omelet",
+          "Boiled Egg",
+          "cornflakes",
+          "Bananas"
+        ],
+        "Lunch": [
+          "Egg Burji-20/-",
+          "Vegetable Biryani-45/-",
+          "Fish curry-45/-"
+        ],
+        "Snacks": [
+          "Bread Pakoda(1 piece)-15/- Aloo bonda (2 pic)-15/-"
+        ],
+        "Dinner": [
+          "Egg masala-20/-",
+          "Paneer Hariyali Masala-40/-",
+          "Kadai Chicken-40/-",
+          "Jalebi-10/-"
+        ]
+      },
+      "Tuesday": {
+        "Breakfast": [
+          "Omelet",
+          "Boiled Egg",
+          "cornflakes",
+          "Bananas"
+        ],
+        "Lunch": [
+          "Egg Masala-20/-",
+          "Palak paneer-30/- ",
+          "Chicken65- 45/-"
+        ],
+        "Snacks": [
+          "Samosa(100 gm)-10/-,Bhel Puri(each),10/-"
+        ],
+        "Dinner": [
+          "Egg burji-20/-",
+          "Crispy Corn-30/-",
+          "Chicken Tikka Masal-45/- ",
+          "Carrot Halwa-10/-"
+        ]
+      },
+      "Wednesday": {
+        "Breakfast": [
+          "Omelet",
+          "Boiled Egg",
+          "cornflakes",
+          "Bananas"
+        ],
+        "Lunch": [
+          "Egg burji-20/-",
+          "Chilli Paneer-40/- ",
+          "Chicken curry 35/-"
+        ],
+        "Snacks": [
+          "Onion Pakoda(50 gm)-10/- Masala wada (2Pic)-10/- "
+        ],
+        "Dinner": [
+          "Veg Dum Biryani-60/-",
+          "Chicken biryani-60/-",
+          "Ras Malai-10/- "
+        ]
+      },
+      "Thursday": {
+        "Breakfast": [
+          "Omelet",
+          "Boiled Egg",
+          "cornflakes",
+          "Bananas"
+        ],
+        "Lunch": [
+          "Egg masala-20/-",
+          "Kashmiri Pulao-55/-",
+          "Pepper Chicken-40/-"
+        ],
+        "Snacks": [
+          "Corn (200 grams)-15/-",
+          "Dhai Wada (1pic)-15/-"
+        ],
+        "Dinner": [
+          "Egg burji-20/-,Paneer Butter Masala-30/- ",
+          "Chicken Chettinad-40/-",
+          "Fish fry-45/-",
+          "Gulab Jamun-10/-"
+        ]
+      },
+      "Friday": {
+        "Breakfast": [
+          "Omelet",
+          "Boiled Egg",
+          "cornflakes",
+          "Bananas"
+        ],
+        "Lunch": [
+          "Egg burji-20/-",
+          "Kadai Paneer 30/-,Crispy Corn-30/-,Butter Chicken-40/-"
+        ],
+        "Snacks": [
+          "Mirchi Bhaji(2 pieces)-10/- Aloo bhaji (2 Pieces)-10/-"
+        ],
+        "Dinner": [
+          "Egg masala-20/-",
+          "Palak paneer-30/-",
+          "Babycorn Manchuria-30/-,Hariyali Chicken-40/-"
+        ]
+      },
+      "Saturday": {
+        "Breakfast": [
+          " Boiled Egg",
+          "cornflakes",
+          "Bananas"
+        ],
+        "Lunch": [
+          "Egg burji-20/-",
+          "Mushroom biryani-50/-",
+          "Chicken Kohlapuri-40/-"
+        ],
+        "Snacks": [
+          "Punugulu (8pic)-15/-,Noodles()"
+        ],
+        "Dinner": [
+          "Cheetinad  Paneer- 30/-",
+          "Chicken curry-35/-",
+          "Double ka Meetha-10/-"
+        ]
+      }
+    },
+    "UDH Additional": {
+      "Sunday": {
+        "Breakfast": [
+          "Boiled Egg",
+          "cornflakes",
+          "Bananas"
+        ],
+        "Lunch": [
+          "Egg Masala-20/-",
+          "Babycorn Manchuria-30/-",
+          "Kadai Chicken-40/-"
+        ],
+        "Snacks": [
+          "Pav Bhaji(2 pieces)-10/- Vada pav (Each)-10/-  "
+        ],
+        "Dinner": [
+          "Paneer pulao-60/-",
+          "Chicken biryani-60/-"
+        ]
+      },
+      "Monday": {
+        "Breakfast": [
+          "Omelet",
+          "Boiled Egg",
+          "cornflakes",
+          "Bananas"
+        ],
+        "Lunch": [
+          "Egg Burji-20/-",
+          "Vegetable Biryani-45/-",
+          "Fish curry-45/-"
+        ],
+        "Snacks": [
+          "Bread Pakoda(1 piece)-15/- Aloo bonda (2 pic)-15/-"
+        ],
+        "Dinner": [
+          "Egg masala-20/-",
+          "Paneer Hariyali Masala-40/-",
+          "Kadai Chicken-40/-",
+          "Jalebi-10/-"
+        ]
+      },
+      "Tuesday": {
+        "Breakfast": [
+          "Omelet",
+          "Boiled Egg",
+          "cornflakes",
+          "Bananas"
+        ],
+        "Lunch": [
+          "Egg Masala-20/-",
+          "Palak paneer-30/- ",
+          "Chicken65- 45/-"
+        ],
+        "Snacks": [
+          "Samosa(100 gm)-10/-,Bhel Puri(each),10/-"
+        ],
+        "Dinner": [
+          "Egg burji-20/-",
+          "Crispy Corn-30/-",
+          "Chicken Tikka Masal-45/- ",
+          "Carrot Halwa-10/-"
+        ]
+      },
+      "Wednesday": {
+        "Breakfast": [
+          "Omelet",
+          "Boiled Egg",
+          "cornflakes",
+          "Bananas"
+        ],
+        "Lunch": [
+          "Egg burji-20/-",
+          "Chilli Paneer-40/- ",
+          "Chicken curry 35/-"
+        ],
+        "Snacks": [
+          "Onion Pakoda(50 gm)-10/- Masala wada (2Pic)-10/- "
+        ],
+        "Dinner": [
+          "Veg Dum Biryani-60/-",
+          "Chicken biryani-60/-",
+          "Ras Malai-10/- "
+        ]
+      },
+      "Thursday": {
+        "Breakfast": [
+          "Omelet",
+          "Boiled Egg",
+          "cornflakes",
+          "Bananas"
+        ],
+        "Lunch": [
+          "Egg masala-20/-",
+          "Kashmiri Pulao-55/-",
+          "Pepper Chicken-40/-"
+        ],
+        "Snacks": [
+          "Corn (200 grams)-15/-",
+          "Dhai Wada (1pic)-15/-"
+        ],
+        "Dinner": [
+          "Egg burji-20/-,Paneer Butter Masala-30/- ",
+          "Chicken Chettinad-40/-",
+          "Fish fry-45/-",
+          "Gulab Jamun-10/-"
+        ]
+      },
+      "Friday": {
+        "Breakfast": [
+          "Omelet",
+          "Boiled Egg",
+          "cornflakes",
+          "Bananas"
+        ],
+        "Lunch": [
+          "Egg burji-20/-",
+          "Kadai Paneer 30/-,Crispy Corn-30/-,Butter Chicken-40/-"
+        ],
+        "Snacks": [
+          "Mirchi Bhaji(2 pieces)-10/- Aloo bhaji (2 Pieces)-10/-"
+        ],
+        "Dinner": [
+          "Egg masala-20/-",
+          "Palak paneer-30/-",
+          "Babycorn Manchuria-30/-,Hariyali Chicken-40/-"
+        ]
+      },
+      "Saturday": {
+        "Breakfast": [
+          " Boiled Egg",
+          "cornflakes",
+          "Bananas"
+        ],
+        "Lunch": [
+          "Egg burji-20/-",
+          "Mushroom biryani-50/-",
+          "Chicken Kohlapuri-40/-"
+        ],
+        "Snacks": [
+          "Punugulu (8pic)-15/-,Noodles()"
+        ],
+        "Dinner": [
+          "Cheetinad  Paneer- 30/-",
+          "Chicken curry-35/-",
+          "Double ka Meetha-10/-"
+        ]
+      }
+    }
+  }
+}
